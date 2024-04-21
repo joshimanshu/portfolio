@@ -39,7 +39,7 @@ const Projects = () => {
           <div className="max-w-sm rounded overflow-hidden shadow-lg border from-green-400 to-red-400">
             <img
               className="w-full min-h-64"
-              src="/Projects/EMP.png"
+              src="./Projects/EMP.png"
               alt="Employee Management System"
             />
             <div className="px-6 py-4">
@@ -67,7 +67,7 @@ const Projects = () => {
           <div className="max-w-sm rounded overflow-hidden shadow-lg border from-green-400 to-red-400">
             <img
               className="w-full h-1/64"
-              src="/Projects/IMP.jpg"
+              src="./Projects/IMP.jpg"
               alt="Inventory Management System"
             />
             <div className="px-6 py-4">
@@ -95,7 +95,7 @@ const Projects = () => {
           <div className="max-w-sm rounded overflow-hidden shadow-lg border from-green-400 to-red-400">
             <img
               className="w-full min-h-40"
-              src="/Projects/bot.webp"
+              src="./Projects/bot.webp"
               alt="Discord Bot"
             />
             <div className="px-6 py-4">

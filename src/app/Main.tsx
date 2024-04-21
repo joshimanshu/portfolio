@@ -39,7 +39,7 @@ export default function Home() {
           </a>
         </div>
         <Image
-          src={"/profile.jpeg"}
+          src={"./profile.jpeg"}
           alt={"Profile"}
           height={"200"}
           width={"200"}
@@ -274,7 +274,7 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-1 divide-y divide-gray-200 dark:divide-gray-700 gap-8">
           <div className="flex py-5 flex-col lg:flex-row lg:items-start">
             <img
-              src="/company/alphaloop.jpeg"
+              src="./company/alphaloop.jpeg"
               alt="Company 1 Logo"
               className="h-20 w-20 mx-4 mt-5 lg:mt-0 lg:mr-4"
             />
@@ -316,7 +316,7 @@ export default function Home() {
           </div>
           <div className="flex py-5 flex-col lg:flex-row lg:items-start">
             <img
-              src="/company/cncf-logo.png"
+              src="./company/cncf-logo.png"
               alt="CNCF"
               className="h-20 w-20 mx-4 mt-5 lg:mt-0 lg:mr-4"
             />
@@ -367,18 +367,7 @@ export default function Home() {
       <section className="group h-72 flex flex-col items-center justify-center my-32 ">
         <h3 className="text-3xl flex items-center gap-x-2 font-bold">
           <span className="bg-back-subtle p-1 rounded-full">
-            {/* <svg
-                stroke="currentColor"
-                fill="currentColor"
-                strokeWidth="0"
-                viewBox="0 0 512 512"
-                height="1em"
-                width="1em"
-                xmlns="http://www.w3.org/2000/svg"
-                className="text-4xl text-accent"
-              >
-                <path d="M287.72 18.813l-65.314 84.25-56.094-59.907-22.437 71.25-68.156-22.25 36.343 77.125-82.688 30.282 74.75 54.907-84.78 85.968 95.436 9.906-39.03 90.312 108.063-35.094 4.156 90.594 68.53-70.406 48.72 58.156 26.967-61.937 84.22 54.124-17.97-89.125 71.938 20.81-36.906-79.5 61.5-9.467-44.75-50.094 41.905-42.658L441.97 213.5 477 131.437l-96.53 27.438 23.655-91.78-95.594 62.468-20.81-110.75zm-119.94 146.5c105.715 3.01 184.245 43.667 252 101.843l-179.842 13.72-72.157-115.563zm-15.593 10.312l44.907 71.875-75.28 36 30.374-107.875zm54.875 87.844l20.032 32.092 3 4.813 5.625-.438 48.593-3.718 31.375 80.624c-47.482-31.943-113.61-65.86-190.313-74.344l81.688-39.03zm212.125 22.436l-82.093 94.5-33.344-85.656 115.438-8.844z"></path>
-              </svg> */}
+         
           </span>
           Get in touch
         </h3>
