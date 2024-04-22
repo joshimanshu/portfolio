@@ -326,7 +326,7 @@ export default function Home() {
                   CNCF Mentee & Open-source Contributor
                 </h3>
                 <span
-                  className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400 border-2 border-gradient"
+                  className="ml-5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400 border-2 border-gradient"
                   data-sider-select-id="a331a226-7d50-4681-a122-196f5942d2bd"
                 >
                   Oct-2023
