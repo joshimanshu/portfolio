@@ -6,7 +6,7 @@ const Projects = () => {
   return (
     <>
       <section className="flex flex-col min-h-screen flex-grow max-w-screen-lg px-5 mt-16 md:px-12 lg:px-20 ">
-        <div
+        {/* <div
           className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative my-7"
           role="alert"
         >
@@ -32,7 +32,7 @@ const Projects = () => {
             https://github.com/joshimanshu
           </a>
           <span className="absolute top-0 bottom-0 right-0 px-4 py-3"></span>
-        </div>
+        </div> */}
         <h1 className="text-2xl md:text-5xl mb-12 font-bold">Projects</h1>
 
         <div className="grid grid-cols-1 space-y-5 sm:grid-cols-2 lg:grid-cols-2 gap-6 sm:gap-8 lg:gap-5">

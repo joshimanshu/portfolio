@@ -93,7 +93,7 @@ export default function Home() {
           </a>
           <a
             className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-black py-2 px-2.5 font-medium text-white shadow-lg shadow-indigo-500/10 transition selection:bg-white/30 hover:bg-green-600 hover:shadow-indigo-500/5 focus:ring-green-500/40 dark:bg-green-400 dark:text-zinc-900 dark:shadow-indigo-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-green-400/80 dark:hover:shadow-indigo-400/5 dark:focus:ring-green-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
-            href="https://github.com/joshimanshu"
+            href="https://github.com/HimanshuJ011"
             rel="noreferrer"
             target="_blank"
           >
